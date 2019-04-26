@@ -1,0 +1,6 @@
+Ilmu yang akan dipelajari pada tahun ini :
+
+1. Framework Laravel
+2. Vue Js
+3. CRUD Mysql
+4. Ngoding setiap hari
