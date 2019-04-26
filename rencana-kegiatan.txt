@@ -8,3 +8,5 @@ Rencana Kegiatan Reno:
 4. Permanen job
 5. Olahraga rutin
 6. Ngaji di bln Ramadhan
+7. Langsung belajar Vue Js
+8. Iseng2 pelajari Node Js & React Native
