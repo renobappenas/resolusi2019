@@ -5,4 +5,4 @@ Ilmu yang akan dipelajari pada tahun ini :
 3. CRUD Mysql
 4. Ngoding setiap hari
 5. Membuat portal web portfolio sendiri
-6. Fokus belajar ngoding setahun ini
+6. Belajar management project lebih dalam
