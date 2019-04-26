@@ -6,3 +6,4 @@ Rencana Kegiatan Reno:
 2. Belajar Php CI
 3. Belajar Start Up
 4. Permanen job
+5. Belajar struktur data fundamental
