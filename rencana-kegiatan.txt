@@ -7,3 +7,6 @@ Rencana Kegiatan Reno:
 3. Belajar Start Up
 4. Permanen job
 5. Belajar struktur data fundamental
+6. Perdalam materi python
+7. Langsung belajar Vue Js
+8. Iseng2 pelajari Node Js & React Native
